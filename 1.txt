@@ -1,3 +1,5 @@
 commit 1 in main branch
 commit 2 in main branch
 commit 3 in main branch
+
+commit 6 in main branch
